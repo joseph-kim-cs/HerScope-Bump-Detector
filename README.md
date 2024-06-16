@@ -1,4 +1,4 @@
-# HerScope Bump Detector (Python 3.9)
+# HerScope Polyp Detector (Python 3.9)
 Business Problem: Finding new alternative or innovative methods in medical device production by expanding into data science oriented solutions. 
 
 Situation: After deciding to go down a route towards solutions in women's health, we interviewed OBGYN's and women's health experts. Through interviews, we were able to determine an area that needs improvement was in operational hysteroscopy, a minimally invasive procedure that allows a doctor to inspect the uterine cavity and perform surgical interventions. This lead us to determine the following needs statement: 
